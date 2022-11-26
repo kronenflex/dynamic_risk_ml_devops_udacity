@@ -1,6 +1,7 @@
 # Project: A Dynamic Risk Assessment System
 This Repository holds the code for udacity project: A Dynamic Risk Assessment System
 
+
 ## Background
 Imagine that you're the Chief Data Scientist at a big company that has 10,000 
 corporate clients. Your company is extremely concerned about attrition risk: the
@@ -21,6 +22,8 @@ monitoring of your model to ensure that it remains accurate and up-to-date. You'
 set up processes and scripts to re-train, re-deploy, monitor, and report on your ML 
 model, so that your company can get risk assessments that are as accurate as possible 
 and minimize client attrition.
+
+![image](https://user-images.githubusercontent.com/28819992/204102113-798a7cee-8a48-4dba-9b0c-bb6919d3fa30.png)
 
 ## Project overview
 You'll complete the project by proceeding through 5 steps:
